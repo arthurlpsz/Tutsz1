@@ -3,6 +3,3 @@
 - 🌱 Estou estudando na Fatec PG cursando Desenvolvimento de Software, anteriormente fiz o curso de Informática para Internet na Etec PG. 
 - 📫 Mídias sociais: Insta: @arthurlpsz. 
 - 😄 Pronomes: ele/dele.
-
-- $ git remote rename origin destination
-# Change remote name from 'Tutsz1' to 'arthurlpsz'
